@@ -1,0 +1,12 @@
+{
+  "name": "timizz",
+  "version": "1.0.0",
+  "description": "A simple utility to represent, create or substract time intervals using raw time units or Dates",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["date", "time", "interval"],
+  "author": "Louis Béranger",
+  "license": "ISC"
+}
